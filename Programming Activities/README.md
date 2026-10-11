@@ -2,4 +2,4 @@
 
 9/14/2026. Program 5: Program that takes input from light sensor and button LED turns on if system is armed and has input from light sensor. Built corresponding circuit. 
 
-9/16/2026. Program 6-7: Program that, on input from a button, moves a servo arm 180 degrees. Program that takes analog signal from moisture sensor and turns it into csv file in batches of 10. Renames file after each trail of 10. 
+9/16/2026. Program 6-7: Program that, on input from a button, moves a servo arm 180 degrees. Program that takes analog signal from moisture sensor and turns it into csv file in batches of 10. Renames file after each trail of 10. Summary data, Whole wipe, wipe on whole surface, dry, half wipe, blowing: Data collected from these programs. 
